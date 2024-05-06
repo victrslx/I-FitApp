@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11139352461",
+    "project_id": "teste-fiap-app",
+    "storage_bucket": "teste-fiap-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11139352461:android:a24b65f80e4c0c28941fc4",
+        "android_client_info": {
+          "package_name": "com.example.i_fit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDriGDXLe3cEAp0rq7BTKg9bznffsllR_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
